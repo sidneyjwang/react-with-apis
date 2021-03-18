@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-with-apis-correct/static/css/main.5840ba95.chunk.css",
+    "main.js": "/react-with-apis-correct/static/js/main.796c5865.chunk.js",
+    "main.js.map": "/react-with-apis-correct/static/js/main.796c5865.chunk.js.map",
+    "runtime-main.js": "/react-with-apis-correct/static/js/runtime-main.7df3ffae.js",
+    "runtime-main.js.map": "/react-with-apis-correct/static/js/runtime-main.7df3ffae.js.map",
+    "static/js/2.4fdc70a4.chunk.js": "/react-with-apis-correct/static/js/2.4fdc70a4.chunk.js",
+    "static/js/2.4fdc70a4.chunk.js.map": "/react-with-apis-correct/static/js/2.4fdc70a4.chunk.js.map",
+    "static/js/3.db1aaa47.chunk.js": "/react-with-apis-correct/static/js/3.db1aaa47.chunk.js",
+    "static/js/3.db1aaa47.chunk.js.map": "/react-with-apis-correct/static/js/3.db1aaa47.chunk.js.map",
+    "index.html": "/react-with-apis-correct/index.html",
+    "static/css/main.5840ba95.chunk.css.map": "/react-with-apis-correct/static/css/main.5840ba95.chunk.css.map",
+    "static/js/2.4fdc70a4.chunk.js.LICENSE.txt": "/react-with-apis-correct/static/js/2.4fdc70a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7df3ffae.js",
+    "static/js/2.4fdc70a4.chunk.js",
+    "static/css/main.5840ba95.chunk.css",
+    "static/js/main.796c5865.chunk.js"
+  ]
+}
